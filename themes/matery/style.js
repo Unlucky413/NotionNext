@@ -44,7 +44,7 @@ const Style = () => {
       }
 
       ::-webkit-scrollbar-thumb {
-        background-color: #4338ca;
+        background-color: #38caaa;
       }
 
       * {
